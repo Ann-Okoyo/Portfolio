@@ -1,0 +1,74 @@
+.ones{
+    display:flex;
+
+}
+.nav{
+    /* display block  starts on a new line and takes up the available screen width */
+    display: block;
+    /* line-height: 40px; */
+    color: black !important;
+    text-align: center;
+
+}
+
+.nav li{
+    /* display block  starts on a new line and takes up the available screen width */
+    display: inline-block;
+    /* line-height: 40px; */
+    color: black !important;
+    padding-bottom: 5em;
+}
+
+.nav a{
+    padding: 2em;
+}
+/* 
+/* remove bullets ,margin and padding */
+.nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    /* margin-bottom: 28%; */
+    
+
+}
+/* or one can use display inline */
+.nav li a{
+    float: left;
+    /* padding-left: 12em; */
+    /* margin-bottom: 80%%; */
+    padding-bottom: 2em;
+}
+.portfolio{
+    margin-left: 15%;
+}
+.muyale{
+font-size: 320%;
+}
+.me{
+    text-align: center;
+    padding-left: 5%;
+    padding-bottom: 1%;
+    border-radius: 4%;
+    margin-left: 3%;
+
+}
+.text6{
+    text-align: center;
+    margin-left: -60%;
+    
+}
+.first{
+    margin-left: 48%;
+}
+.portfolio{
+
+    
+}
+.container{
+    
+}
+.yellow{
+    color: yellow;
+    font-size: 60px;
+}
